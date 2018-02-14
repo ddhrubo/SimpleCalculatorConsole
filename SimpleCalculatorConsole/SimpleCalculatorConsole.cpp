@@ -3,25 +3,9 @@
 #pragma once
 
 #include "stdafx.h"
-#include <string.h>
-#include <stdlib.h>
-#include <math.h>
-
 #include <iostream>
-#include <sstream>
 #include <OperationFactory.h>
-
-#include <Add.h>
-#include <Subtract.h>
-#include <Multiply.h>
-#include <Divide.h>
-#include <Power.h>
-#include <Sine.h>
-#include <Cosine.h>
-#include <SquareRoot.h>
-
 #include "CMDArgParser.h"
-
 #include <exception>
 
 using namespace std;
